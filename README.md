@@ -6,8 +6,6 @@
 
 
 #### Projeyi çalıştırmak için
-##### ( Expo kurulu olması gerekmektedir )
-
 
 ``` bash
 expo start 
